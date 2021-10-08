@@ -1,0 +1,29 @@
+#nom{
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+#prenom{
+	margin-top: 50px;
+}
+#mes{
+	margin-left: 60px;
+	width: 170px;
+	height: 100px;
+	margin-top: 10px;
+	
+}
+#mess{
+    position: fixed;
+    margin-top: 50px;
+}
+#envoyer{
+	margin-left: 100px;
+	margin-top: 30px;
+}
+.divmax{
+	margin: 50px auto;
+	width: 260px;
+	height: 320px;
+}
+
